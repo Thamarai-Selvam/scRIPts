@@ -1,5 +1,5 @@
 @echo off
-for %%i in (1,1,100) do (
-	start chrome.exe "about:blank"
+for /l %%i in (1,1,100) do (
 	echo Tab count: %%i
+	start chrome.exe "about:blank"
 )
