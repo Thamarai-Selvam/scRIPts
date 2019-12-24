@@ -1,8 +1,7 @@
-# scRIPts
-Nah... Just some scripts written to pass time, make peoples computer Rest in Peace fa some time. PS: Running out of words.
-
-
-### How to run these scripts...
+## Chrome Killer
+  Contains both .txt and .bat files for some unknown purpose.
+  
+  ### How to run
     
   #### Hard Way: 
   1. Clone the repo
